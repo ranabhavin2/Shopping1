@@ -28,7 +28,7 @@ namespace WebApplication1.Controllers
             ViewBag.Message2 = "This is pipeline testingggg.";
 
             //my latest code.
-            ViewBag.Message3 = "This is thursday...";
+            
 
 
             return View();   
