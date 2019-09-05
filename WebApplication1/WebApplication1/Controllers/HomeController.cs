@@ -26,7 +26,11 @@ namespace WebApplication1.Controllers
             ViewBag.Message1 = "Your contact page.";
             //bhavin done comment.
             ViewBag.Message2 = "This is pipeline testingggg.";
-            
+
+            //my latest code.
+            ViewBag.Message3 = "This is thursday...";
+
+
             return View();   
         }
     }
